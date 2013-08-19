@@ -1,0 +1,2 @@
+VINEの非公式APIのテストプログラム
+titaniumを使って書いたのでios,androidともに動くと思う
